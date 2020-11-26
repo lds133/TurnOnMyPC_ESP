@@ -1,2 +1,6 @@
 # TurnOnMyPC_ESP
-Control desktop PC front panel through MQTT protocol.
+Controls desktop PC front panel through MQTT protocol.
+
+![Board](/img/2.png)
+
+
